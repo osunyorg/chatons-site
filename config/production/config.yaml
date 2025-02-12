@@ -2,6 +2,11 @@
 
 baseURL: https://chatons.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 330c8a78-486b-4a59-953c-22153a4538f0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
